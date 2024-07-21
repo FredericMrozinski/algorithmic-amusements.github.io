@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freddy&#39;s Blog</title>
-    <link>http://localhost:38853/</link>
+    <link>https://fredericmrozinski.github.io/</link>
     <description>Recent content on Freddy&#39;s Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Jul 2024 17:08:47 +0200</lastBuildDate>
-    <atom:link href="http://localhost:38853/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jul 2024 18:30:23 +0200</lastBuildDate>
+    <atom:link href="https://fredericmrozinski.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Blog</title>
-      <link>http://localhost:38853/posts/hello-blog/</link>
-      <pubDate>Sat, 20 Jul 2024 17:08:47 +0200</pubDate>
-      <guid>http://localhost:38853/posts/hello-blog/</guid>
-      <description>Hello Blog! public class HereWeGo { public void main(String[] args) { System.out.println(&amp;#34;Hello World&amp;#34;); } } </description>
+      <link>https://fredericmrozinski.github.io/posts/hello-blog/</link>
+      <pubDate>Sun, 21 Jul 2024 18:30:23 +0200</pubDate>
+      <guid>https://fredericmrozinski.github.io/posts/hello-blog/</guid>
+      <description>Hello Blog! </description>
     </item>
   </channel>
 </rss>
