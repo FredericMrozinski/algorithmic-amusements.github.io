@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Freddy&#39;s Enlightenments</title>
-    <link>https://fredericmrozinski.github.io/freddys-enlightenments.github.io/</link>
+    <link>https://fredericmrozinski.github.io/</link>
     <description>Recent content on Freddy&#39;s Enlightenments</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Jul 2024 17:08:47 +0200</lastBuildDate>
-    <atom:link href="https://fredericmrozinski.github.io/freddys-enlightenments.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fredericmrozinski.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello Blog</title>
-      <link>https://fredericmrozinski.github.io/freddys-enlightenments.github.io/posts/hello-blog/</link>
+      <link>https://fredericmrozinski.github.io/posts/hello-blog/</link>
       <pubDate>Sat, 20 Jul 2024 17:08:47 +0200</pubDate>
-      <guid>https://fredericmrozinski.github.io/freddys-enlightenments.github.io/posts/hello-blog/</guid>
+      <guid>https://fredericmrozinski.github.io/posts/hello-blog/</guid>
       <description>Hello Blog! public class HereWeGo { public void main(String[] args) { System.out.println(&amp;#34;Hello World&amp;#34;); } } </description>
     </item>
   </channel>
