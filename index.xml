@@ -6,15 +6,16 @@
     <description>Recent content on Freddy&#39;s Blog</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Jul 2024 18:30:23 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fredericmrozinski.github.io/built-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello Blog</title>
-      <link>https://fredericmrozinski.github.io/built-blog/posts/hello-blog/</link>
-      <pubDate>Sun, 21 Jul 2024 18:30:23 +0200</pubDate>
-      <guid>https://fredericmrozinski.github.io/built-blog/posts/hello-blog/</guid>
-      <description>Hello Blog! Soon, I&amp;rsquo;ll write something on this blog! Until then:
-$$ \pi \approx 3.1415926535 8979323846 2643383279&amp;hellip; $$</description>
+      <title>Taylor-Series based pruning criteria for weight pruning in neural networks</title>
+      <link>https://fredericmrozinski.github.io/built-blog/posts/neuron-pruning-1/</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://fredericmrozinski.github.io/built-blog/posts/neuron-pruning-1/</guid>
+      <description>Summary This article discusses how the Taylor series motivates two commonly used pruning criteria for neural networks, namely
+Magnitude based pruning Fisher information based pruning The motivation for this blogpost is to highlight that those pruning criteria are closely related while having different bounds on the resulting errors after pruning. I created this blogpost because I found this information lacking in many papers that used the concepts introduced below.
+Introduction A common fully-connected neural network - as the name suggests - possesses &amp;ldquo;synapses&amp;rdquo;, i.</description>
     </item>
   </channel>
 </rss>
