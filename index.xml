@@ -4,10 +4,18 @@
     <title>Freddy&#39;s Blog</title>
     <link>https://fredericmrozinski.github.io/built-blog/</link>
     <description>Recent content on Freddy&#39;s Blog</description>
-    <generator>Hugo -- 0.129.0</generator>
+    <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 13:12:10 +0200</lastBuildDate>
     <atom:link href="https://fredericmrozinski.github.io/built-blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Jade Scientific Calculator - Past, Present, and Future</title>
+      <link>https://fredericmrozinski.github.io/built-blog/posts/jsc/</link>
+      <pubDate>Fri, 09 Aug 2024 13:12:10 +0200</pubDate>
+      <guid>https://fredericmrozinski.github.io/built-blog/posts/jsc/</guid>
+      <description>Jade Scientific Calculator - Past, Present, and Future Jade Scientific Calculator (JSC) is an Android application designed for advanced mathematical calculations, yet simple enough to be a daily tool for basic computations. From basic arithmetic to solving differential equations and linear algebra problems, this app has you covered.
+Past - Eager Development and the Pandemic JSC began as my capstone project in high school. During my AP courses, I fell in love with my HP Prime calculator but grew frustrated that our phones, despite their phenomenal hardware, lacked an equally good and user-friendly app.</description>
+    </item>
     <item>
       <title>Taylor-Series based pruning criteria for weight pruning in neural networks</title>
       <link>https://fredericmrozinski.github.io/built-blog/posts/neuron-pruning-1/</link>
