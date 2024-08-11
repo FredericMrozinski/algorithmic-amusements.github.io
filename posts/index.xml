@@ -21,7 +21,7 @@ Past - Eager Development and the Pandemic JSC began as my capstone project in hi
       <link>https://fredericmrozinski.github.io/built-blog/posts/neuron-pruning-1/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://fredericmrozinski.github.io/built-blog/posts/neuron-pruning-1/</guid>
-      <description>TL;DR By comparing magnitude based pruning with Fisher-information based pruning, the theory provides a tighter loss error bound after pruning. In practice however, both methods yield the same performance, on average. Fisher-information pruning costs more compute time. From our observed examples, we suggest to use magnitude based pruning considering same performance in less time. Summary This article discusses how the Taylor series motivates two commonly used pruning criteria for neural networks, namely</description>
+      <description>TL;DR By theoretically comparing magnitude based pruning with Fisher-information based pruning, the error bound for Fisher-information pruning is tighter and seems more desirable. In practice however, both methods yield the same performance, on average. Fisher-information pruning costs more compute time. From our observed examples, we suggest to use magnitude based pruning considering same performance in less time. Summary This article discusses how the Taylor series motivates two commonly used pruning criteria for neural networks, namely</description>
     </item>
   </channel>
 </rss>
